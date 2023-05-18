@@ -1,6 +1,7 @@
 DROP TABLE campaign;
 DROP TABLE contacts;
-
+DROP TABLE category;
+DROP TABLE subcategory;
 
 
 CREATE TABLE "campaign" (
